@@ -1,3 +1,4 @@
+# half-half recursive, (while combine, do it assembly)
 def merge_sort(arr):
     
     if len(arr) < 2:

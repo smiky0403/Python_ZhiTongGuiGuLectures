@@ -1,3 +1,4 @@
+#  from left to right, 1 by 1 neighbor compare, move larger to right like a bubble 
 def bubble_sort(arr):
     
     for i in range(0, len(arr)):

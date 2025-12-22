@@ -1,3 +1,7 @@
+# stable
+#interate i
+# search all left to i from right,  insert element i till amke sure i smaillest
+#this make every iterate, i and its left are sorted small to large
 def insertion_sort(arr):
     for i in range(1, len(arr) ):
         j = i
