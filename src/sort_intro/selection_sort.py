@@ -1,3 +1,6 @@
+#unstable
+#find who is minimal in the remain unsortted from i - len(arr), 
+# swap element i with that minimal element
 def selection_sort(arr):
     
     if len(arr) < 2:
