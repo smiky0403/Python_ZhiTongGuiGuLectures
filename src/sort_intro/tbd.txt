@@ -1,3 +1,7 @@
-bucket sorting
+heap sorting
+bucket sorting -LC: sort color   merge intervals (LC? )
 radix sorting
-lec - 11    sorting class  other sorting methods
+bubble sort -  add swapped flag to improve for best case
+insertion sort -> do it on link list (bonus)
+
+lec - SDE  11    sorting class  other sorting methods
