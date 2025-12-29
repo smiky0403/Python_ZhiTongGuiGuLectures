@@ -1,0 +1,10 @@
+re-practice:
+
+re_nth_linklinkst  -improve code to straight forward
+remove dup elements with distinct
+even odd link list  -  be clear on edge cases 
+list pattern - increase then decrease (OA confused with palidrome)
+
+
+
+
