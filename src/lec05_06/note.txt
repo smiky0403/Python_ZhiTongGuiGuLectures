@@ -1,0 +1,21 @@
+tbd list
+
+re-practice (queue stack deque)
+deque stack and queue  DIY class
+try python native deque from importing collection
+
+LC0716_Max_Stack    Done on LC exclude popMax, need REDO Here and with popMax
+LC0232_Stack_as_Queue    Done on LC, need REDO Here
+LC0020 Valid parenthese  Done on LC, need REDO Here
+LC0150 Polish reverse  Done on LC, need REDO Here
+LC0341 NEST LIST ITERATOR   Done on LC, need REDO Here
+
+
+re-practice (hash set dict(map))
+DIY __hash__
+LC0290_WordPattern Done on LC, need REDO Here
+LC0049_GraphAnagram Done on LC, need REDO Here
+LC0325, Similar to LC00525 Done on LC, redo 0325 on LC
+LC0187, Done on LC, need REDO Here   optimize with using 2 sets, string slicing
+
+
