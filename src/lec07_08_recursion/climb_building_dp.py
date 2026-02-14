@@ -5,7 +5,7 @@ def climb_building(n:int, memo:dict = None) -> Deque[int]:
         
     a, b = 1, 2
     
-  
+
     
     for _ in range(3, n + 1):
         a, b = b, a + b

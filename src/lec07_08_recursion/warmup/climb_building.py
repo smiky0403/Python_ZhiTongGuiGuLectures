@@ -10,3 +10,5 @@ def main():
     print(f"climb {n} steps has {res} methods")
     
 main()
+
+#bad  O 2^N 

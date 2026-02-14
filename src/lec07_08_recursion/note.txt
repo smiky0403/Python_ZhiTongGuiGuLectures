@@ -1,0 +1,18 @@
+To To:
+
+Challenges
+Maze II III (wall bounce, etc.)
+Knap sack ( 0,1 upgrade to weight,  repetitive items, etc.)  -> Done
+Fibonacii,  medium state (DROP)
+Suduko -> 1 improve with MRV set  -> 2 improve with mask
+Palindrome Partition -> Do it with DP for substring
+
+Done inside LC 2026 02:
+Permunation I II
+Combination Sum I II III
+Combination I
+N Queen
+Word Search   -> Need Re-practice
+Suduko done v1 basic
+OA4 exam: phone number Combination
+

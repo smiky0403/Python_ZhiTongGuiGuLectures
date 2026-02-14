@@ -15,13 +15,15 @@ def climb_building(n:int, memo:dict = None) -> int:
 
 
 def main():
-    n = 15
+    n = 6
     res = climb_building(n)
     print(f"climb {n} steps has {res} methods")
     
 main()
 
-    """
+
+
+"""
     climb(6) [*]
 ├─ climb(5) [*]
 │  ├─ climb(4) [*]
@@ -36,4 +38,4 @@ main()
 └─ climb(4) [M]             -> return memo[4] = 5
     => memo[6] = memo[5]+memo[4] = 13
 
-    """
+"""
