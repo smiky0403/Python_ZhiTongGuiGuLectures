@@ -1,0 +1,19 @@
+Done in LC:
+Same Tree
+Symmetric Tree
+Path Sum I II together
+
+
+
+TBD -redo those on leetcode:
+BST tree find add remove  - repractice 2nd and 3rd time
+BST remove   recursion way
+Search insertion position
+Serch in Roated sortted Array
+Sqrt(x)
+
+Tries tree:
+1️⃣ LC 208 Implement Trie
+2️⃣ LC 211 Add and Search Word（带 wildcard）
+3️⃣ LC 212 Word Search II（Trie + DFS）   Most difficult
+
