@@ -1,4 +1,4 @@
 LC0179 Largest Number
 LC0350 Intersect Array   (LC0349 without repeat)
-LC0034 Search in a Rotary Array
+LC0033 Search in a Rotary Array
 LC0034 Search for a range
